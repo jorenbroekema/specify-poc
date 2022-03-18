@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/divriots.specify-poc",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve V3H0UEszRovlYTgRw3zR --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
